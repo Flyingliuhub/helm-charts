@@ -13,6 +13,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 ### Security
 ---
+## [2.5.0]
+### Added
+- Updated version to 2.5.0 and appVersion to "2.3.0".
+### Changed
+### Deprecated
+### Removed
+### Fixed
+### Security
+---
 ## [2.4.2]
 ### Added
 ### Changed

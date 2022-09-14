@@ -13,6 +13,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 ### Security
 ---
+## [2.6.0]
+### Added
+- Updated version to 2.6.0 and appVersion to "2.3.0".
+### Changed
+### Deprecated
+### Removed
+### Fixed
+### Security
+---
 ## [2.5.1]
 ### Added
 - Helm chart-releaser parallel release issue, updated version to 2.5.1.
